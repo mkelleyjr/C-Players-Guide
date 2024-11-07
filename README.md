@@ -4,4 +4,6 @@ C# Players Guide for learning C#
 
 Readme.md 
 
-Learning C# for use with Godot, etc. 
+Learning C# for use with Godot, etc.
+
+Examples and tests. 
