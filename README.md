@@ -1,5 +1,6 @@
 # C-Players-Guide
 C# Players Guide for learning C# 
+by RB Whitaker 
 
 
 Readme.md 
