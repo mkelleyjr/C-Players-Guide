@@ -5,6 +5,7 @@ by RB Whitaker
 
 Readme.md 
 
-Learning C# for use with Godot, etc.
+Learning C# for use with Godot instead of Godot Script, etc. 
+
 
 Examples and tests. 
