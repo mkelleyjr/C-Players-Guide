@@ -8,4 +8,4 @@ Readme.md
 Learning C# for use with Godot instead of Godot Script, etc. 
 
 
-Examples and tests. 
+Examples and tests from the book. 
